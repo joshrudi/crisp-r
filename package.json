@@ -1,0 +1,21 @@
+{
+  "name": "crisp-r",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.html",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "license": "",
+  "devDependencies": {
+    "axios": "^0.19.2",
+    "express": "^4.17.1",
+    "serve": "^11.2.0"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "dotenv": "^8.2.0",
+    "firebase-admin": "^9.3.0"
+  }
+}
