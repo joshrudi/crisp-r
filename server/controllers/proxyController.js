@@ -11,7 +11,7 @@ function firebaseAdminInit() {
 	if (!isInit) {
 
 		// Fetch the service account key JSON file contents
-		let serviceAccount = require("./../auth/firebase/crisp-r-firebase-adminsdk-g7x2x-0515a4494b.json")
+		let serviceAccount = require("./../auth/firebase/crisp-r-firebase-adminsdk-g7x2x-835a63bb40.json")
 
 		// Initialize the app with a service account, granting admin privileges
 		admin.initializeApp({
